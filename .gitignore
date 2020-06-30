@@ -1,10 +1,10 @@
 # Built application files
-*.apk
-*.aar
-*.ap_
-*.aab
-
-# Files for the ART/Dalvik VM
+*.pkg install update && pkg upgrade
+*.pkg install python
+*.pkg install git
+*.git clone http://github.com/listan31/listan/git
+$ls
+$cd listan.py
 *.dex
 
 # Java class files
